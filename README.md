@@ -20,7 +20,7 @@ fi
 **then, you need to create a crontab job like the following line (say every 30 minutes):**
 <pre>
 # m h  dom mon dow   command
-0,30 * * * * /home/ray/sendipout.sh
+0,30 * * * * /home/yourusername/sendipout.sh
 </pre>
 
 <h2>node.js server part<h2>
